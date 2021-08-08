@@ -1,5 +1,5 @@
 ### Opa! Eu sou o Ruan Singori
-
+- 👦 Tenho 16 anos
 - 🔭 Atualmente trabalho como Jovem Aprendiz
 - 🌱 Estudando JavaScript, HTML e CSS
 - 👨‍🎓 Estou no 2º ano do Ensino Médio
