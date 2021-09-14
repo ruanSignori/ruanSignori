@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como Jovem Aprendiz
 - 🌱 Estudando JavaScript, HTML e CSS
 - 👨‍🎓 Estou no 2º ano do Ensino Médio
-
+- 🔍 Tenho vontade de aprender: TypeScript, Python, C
 <div>
   <a href="https://github.com/ruanSignori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanSignori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
