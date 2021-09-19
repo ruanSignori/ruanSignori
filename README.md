@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Ruan Singori
 - 👦 Tenho 16 anos
 - 🔭 Atualmente trabalho como Jovem Aprendiz
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🌱 Estudando JavaScript, HTML, CSS e NodeJS
 - 👨‍🎓 Estou no 2º ano do Ensino Médio
 - 🔍 Tenho vontade de aprender: TypeScript, Python, C
 <div>
