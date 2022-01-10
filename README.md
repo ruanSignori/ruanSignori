@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Ruan Singori
 - 👦 Tenho 17 anos
 - 🌱 Estudando JavaScript, NodeJS e React
-- 👨‍🎓 Estou no 2º ano do Ensino Médio
+- 👨‍🎓 Estou no 3º ano do Ensino Médio
 - 🔍 Tenho vontade de aprender: TypeScript e Python
 <div>
   <a href="https://github.com/ruanSignori">
