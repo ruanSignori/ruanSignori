@@ -2,7 +2,7 @@
 - 👦 Tenho 17 anos
 - 🌱 Estudando JavaScript, NodeJS e React
 - 👨‍🎓 Estou no 3º ano do Ensino Médio
-- 🔍 Tenho vontade de aprender: TypeScript e Python
+- 🔍 Interesses: TypeScript, C++, Python e UX/UI Design
 <div>
   <a href="https://github.com/ruanSignori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanSignori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -16,7 +16,6 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /> 
   <img align="center" alt="" heigjt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>  
   
