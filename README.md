@@ -29,12 +29,3 @@
 </div>
 
 ##
-  
-<p align="center"> 
-
- ### Total de visitas no meu perfil :mag: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/ruanSignori/count.svg" />
- </p>
-
-</p>
