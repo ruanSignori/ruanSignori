@@ -1,9 +1,9 @@
 
 ### Opa! Eu sou o Ruan Singori
 - 👦 Tenho 17 anos
-- 🌱 Estudando: JavaScript, NodeJS e TypeScript
+- 🌱 Estudando: JavaScript, ReactJS e TypeScript
 - 👨‍🎓 Estou no 3º ano do Ensino Médio
-- 🔍 Interesses: ReactJS, C++, Python e UX/UI Design
+- 🔍 Interesses: C++, Python e UX/UI Design
 <div>
   <a href="https://github.com/ruanSignori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanSignori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
