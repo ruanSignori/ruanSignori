@@ -4,11 +4,13 @@
 - 🌱 Estudando: Redes, ReactJS e TypeScript
 - 👨‍🎓 Estou no 3º ano do Ensino Médio
 - 🔍 Interesses: C++ e Python
+<!-- 
 <div>
   <a href="https://github.com/ruanSignori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanSignori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanSignori&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
+--> 
  
  ### Ferramentas que eu utilizo.
 <div style="display: inline_block;"><br>
