@@ -1,8 +1,8 @@
 
 ### Opa! Eu sou o Ruan Singori
-- 👦 Tenho 18 anos
-- 🌱 Estudando: Redes, NextJS e TypeScript
-- 🔍 Interesses: C++ e Python
+- 👦 Tenho 19 anos
+- 🌱 Estudando: NextJS e Docker
+- 🔍 Interesses: C#
 <div>
   <a href="https://github.com/ruanSignori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanSignori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
