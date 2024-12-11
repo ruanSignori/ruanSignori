@@ -1,7 +1,7 @@
 # Opa! Eu sou o Ruan Signori
 
 ### 👨‍💻 Sobre mim
-Sou um desenvolvedor de 19 anos. Trabalho atualmente na empresa Solis, como desenvolvedor PHP. <br>
+Sou um desenvolvedor de 20 anos. Trabalho atualmente na empresa Solis, como desenvolvedor PHP. <br>
 Faço Engenharia de Software na UNIVATES. <br>
 Gosto de contribuir com projetos open source.
 
